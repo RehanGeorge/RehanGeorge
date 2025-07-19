@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RehanGeorge
 - 👀 I’m interested in learning as a whole
-- 🌱 I’m currently learning Python and have started using Github to host my Projects
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on any project at all as I learn
 - 📫 How to reach me - Email ID: rehan.george@gmail.com
 
