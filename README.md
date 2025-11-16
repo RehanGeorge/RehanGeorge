@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RehanGeorge
-- 👀 I’m interested in learning as a whole
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on any project at all as I learn
+- 👀 I’m interested in learning across multiple fields and disciplines
+- 🌱 I’m currently learning about Agentic AI and how to best make an agentic system work for complex workflows
 - 📫 How to reach me - Email ID: rehan.george@gmail.com
 
 <!---
